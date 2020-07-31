@@ -21,9 +21,17 @@ My plan was to collect all the song which I've listen to during the last week. R
 
 ## Summary Statistics
 
+lite tabeller om hur mycket av varje det är
+
+
+
 ## Feature Engineering
 
+genres
+top artist
+
 ## Classification
+### Feature Selection
 ### Very Unbalanced Dataset
 ### Comparing differnt models
 Hyperparamters här??
