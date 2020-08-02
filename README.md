@@ -32,11 +32,14 @@ top artist
 
 ## Classification
 ### Feature Selection
+corr_matrix
+PCA
 ### Very Unbalanced Dataset
-### Comparing differnt models
-Hyperparamters här??
+smote
+### Hyperparameter tuning 
+3.5% better prec compated to base model
 
-## Results & Conlcussions
+## Recommendations & Conlcussions
 
 ## Futher Possible Extensions
 
