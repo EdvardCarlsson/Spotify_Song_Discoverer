@@ -46,5 +46,8 @@ smote
 
 ## Recommendations & Conlcussions
 
+det blir problem när man har en mer blandat historik, denna veckan var det mestadels house, nästa blev betyggt mer blandad, detta borde jag se över
+sen torr jagd et blir bbättre om med längre hisroic (all_time)
+
 ## Futher Possible Extensions
 
