@@ -43,7 +43,7 @@ smote
 
 ## Recommendations & Conlcussions
 
-I've now run my Song Discover over the consecutive weeks. It has become clear that it does perform better when the music I've listened to during the week is more uniform, mostly focused around a few genres. This was the case during the first and third weeks but not the second. When the learning sample was more diverse the classifier gave me a lot more songs as recommendations. Recommendations, which according to me, were considerably less precise to my taste compared to the other weeks. The code and shown results are based on the third week.
+I've now run my Song Discover over three consecutive weeks. It has become clear that it does perform better when the music I've listened to during the week is more uniform, mostly focused around a few genres. This was the case during the first and third weeks but not the second. When the learning sample was more diverse the classifier gave me a lot more songs as recommendations. Recommendations, which according to me, were considerably less precise to my taste compared to the other weeks. The code and shown results are based on the third week.
 During the third week I only got six songs recommended. This can largely be contributed to the fact that my total listening history is getting longer and therefore more songs are getting filtered out as already played. Since I would rather see a larger number of songs getting recommended I'm considering increasing the sample of potential songs, which in the current state is less than 1000.
 
 ## Further Possible Extensions
