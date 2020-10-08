@@ -11,8 +11,8 @@ import pandas as pd
 import numpy as np
 
 
-client_id = "ead07f131586436e88d6ed3f0a07d034"
-client_secret = "6cc0d2298bde4885a5400b734fd0d663"
+client_id = "spotify_client_id"
+client_secret = "spotify_client_secret"
 spotify = SpotifyAPI(client_id, client_secret)
 
 
