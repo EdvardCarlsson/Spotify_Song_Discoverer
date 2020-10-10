@@ -20,10 +20,10 @@ I'm using the last.fm application connected to my Spotify account to record my l
 The sample of potential songs is called from Spotify's web API using JSON requests. As earlier mentioned I collected 1000 songs which, based on this week's sample, filtered down to 816. In future weeks, as the number of songs I've listened to increases, more songs will get removed and the need to increase the base of potential songs might become apparent.
 
 ### Audio Features
-Spotify's API offers something called Audio Features
+Spotify's API offers something called Audio Features.
 
 ## Summary Statistics
-
+Analysis of what features are prominent in my most listened songs compared all of my listening history as well as the songs in the prediction sample.
 
 
 
