@@ -29,17 +29,22 @@ Spotify's API offers something called Audio Features
 
 ## Feature Engineering
 
-genres
-top artist
+Creating new variables by studying the genres and what artists are trending right now. 
+
 
 ## Classification
 ### Feature Selection
-corr_matrix
-PCA
+corr_matrix to observe relationship between varaibles
+
+PCA to try to reduce complexity of the model
 ### Very Unbalanced Dataset
-smote
+SMOTE to fix it
+
 ### Random Forest
+First classification model used. Hyperparameter tuning using 3-fold CV in order improve prediciton.
+
 ### K-Nearest Neighbor
+Second model used. Similar tuning.
 
 ## Recommendations & Conlcussions
 
